@@ -8,10 +8,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1922c3c1644e6774a900a8baf5a456f1, type: 3}
-  m_Name: New Animal
+  m_Script: {fileID: 11500000, guid: 378678ccd84420242b1bce18b867c466, type: 3}
+  m_Name: Health1
   m_EditorClassIdentifier: 
-  Health: 1
-  Speed: 1
-  Strength: 1
-  LegCount: 2
+  PowerLevel: 1
