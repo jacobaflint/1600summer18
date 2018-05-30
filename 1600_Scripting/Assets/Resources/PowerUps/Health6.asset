@@ -11,4 +11,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 378678ccd84420242b1bce18b867c466, type: 3}
   m_Name: Health6
   m_EditorClassIdentifier: 
+  AnyAnimal: {fileID: 11400000, guid: c2b74f34e0856c84688cd8f319698962, type: 2}
   PowerLevel: 6
