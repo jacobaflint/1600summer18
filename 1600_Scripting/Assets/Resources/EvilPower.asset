@@ -8,7 +8,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 378678ccd84420242b1bce18b867c466, type: 3}
-  m_Name: Health1
+  m_Script: {fileID: 11500000, guid: 234f8107f206c3043b40ef0242c736a6, type: 3}
+  m_Name: EvilPower
   m_EditorClassIdentifier: 
-  PowerLevel: 1
+  Value: 0.1
