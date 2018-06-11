@@ -384,7 +384,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f2cac5246ffab443b3fac5fa9704644, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ChangeColor: {fileID: 11400000, guid: 759fe728978ed4341b7802cb536aead9, type: 2}
+  ChangeColor: {fileID: 11400000, guid: f3bfc3407b9c8b744909feac277b3206, type: 2}
 --- !u!114 &1007358383
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -546,7 +546,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f2cac5246ffab443b3fac5fa9704644, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ChangeColor: {fileID: 11400000, guid: 759fe728978ed4341b7802cb536aead9, type: 2}
+  ChangeColor: {fileID: 11400000, guid: f3bfc3407b9c8b744909feac277b3206, type: 2}
 --- !u!114 &1055940757
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -627,7 +627,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f2cac5246ffab443b3fac5fa9704644, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ChangeColor: {fileID: 11400000, guid: 759fe728978ed4341b7802cb536aead9, type: 2}
+  ChangeColor: {fileID: 11400000, guid: f3bfc3407b9c8b744909feac277b3206, type: 2}
 --- !u!114 &1250243688
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -708,7 +708,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f2cac5246ffab443b3fac5fa9704644, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ChangeColor: {fileID: 11400000, guid: 759fe728978ed4341b7802cb536aead9, type: 2}
+  ChangeColor: {fileID: 11400000, guid: f3bfc3407b9c8b744909feac277b3206, type: 2}
 --- !u!114 &1413722414
 MonoBehaviour:
   m_ObjectHideFlags: 0
