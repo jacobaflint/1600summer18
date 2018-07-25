@@ -20,6 +20,13 @@
           <e p="DoAddition.cs" t="Include" />
           <e p="FireAmmo.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
+          <e p="GameStates" t="Include">
+            <e p="Ending.cs" t="Include" />
+            <e p="GameStateBase.cs" t="Include" />
+            <e p="Playing.cs" t="Include" />
+            <e p="Starting.cs" t="Include" />
+          </e>
+          <e p="GameStates.cs" t="Include" />
           <e p="HealthBehavior.cs" t="Include" />
           <e p="HealthPowerUp.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
