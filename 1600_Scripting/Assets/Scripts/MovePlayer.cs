@@ -10,7 +10,6 @@ public class MovePlayer : MonoBehaviour {
 	public float Speed = 10.0f;
 	public float Gravity = 9.81f;
 	public float JumpSpeed = 10.0f;
-	public bool CanRun = true;
 	
 	// Use this for initialization
 	void Start ()
@@ -28,10 +27,9 @@ public class MovePlayer : MonoBehaviour {
 		
 		newPosition.y -= Gravity;
 		
-		if (CanRun)
-		{
-			newPosition.x = Speed*Input.GetAxis("Horizontal");
-		}
+		newPosition.x = Speed*Input.GetAxis("Horizontal");
+		newPosition.z = Speed*Input.GetAxis("Vertical");
+	
 		controller.Move(newPosition * Time.deltaTime);
 	}
 }

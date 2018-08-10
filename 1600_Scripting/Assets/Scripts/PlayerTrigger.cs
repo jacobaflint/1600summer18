@@ -7,14 +7,22 @@ public class PlayerTrigger : MonoBehaviour {
     public FloatData HealthLevel;
     public FloatData EvilPower;
 
-	// Use this for initialization
+
 	void Start () {
 		
 	}
 	
-	// Update is called once per frame
+	
 	void OnTriggerEnter () {
-        HealthLevel.Value -= EvilPower.Value;
-		
+		if (HealthLevel.Value > 0)
+		{
+			HealthLevel.Value -= EvilPower.Value;
+		}
+			
+	}
+
+	private void OnDisable()
+	{
+		HealthLevel.Value = 1;
 	}
 }
